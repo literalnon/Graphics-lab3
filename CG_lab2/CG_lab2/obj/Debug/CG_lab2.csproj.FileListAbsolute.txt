@@ -1,0 +1,18 @@
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\bin\Debug\CG_lab2.exe.config
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\obj\Debug\CG_lab2.csprojResolveAssemblyReference.cache
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\obj\Debug\CG_lab2.Form1.resources
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\obj\Debug\CG_lab2.Properties.Resources.resources
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\obj\Debug\CG_lab2.csproj.GenerateResource.Cache
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\bin\Debug\CG_lab2.exe
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\bin\Debug\CG_lab2.pdb
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\obj\Debug\CG_lab2.exe
+C:\Users\Стас\Documents\Visual Studio 2012\Projects\CG_lab2\CG_lab2\obj\Debug\CG_lab2.pdb
+C:\Users\Donald\CG_lab2\CG_lab2\bin\Debug\CG_lab2.exe.config
+C:\Users\Donald\CG_lab2\CG_lab2\bin\Debug\CG_lab2.exe
+C:\Users\Donald\CG_lab2\CG_lab2\bin\Debug\CG_lab2.pdb
+C:\Users\Donald\CG_lab2\CG_lab2\obj\Debug\CG_lab2.Form1.resources
+C:\Users\Donald\CG_lab2\CG_lab2\obj\Debug\CG_lab2.Properties.Resources.resources
+C:\Users\Donald\CG_lab2\CG_lab2\obj\Debug\CG_lab2.csproj.GenerateResource.Cache
+C:\Users\Donald\CG_lab2\CG_lab2\obj\Debug\CG_lab2.exe
+C:\Users\Donald\CG_lab2\CG_lab2\obj\Debug\CG_lab2.pdb
+C:\Users\Donald\CG_lab2\CG_lab2\obj\Debug\CG_lab2.csprojResolveAssemblyReference.cache
